@@ -6,24 +6,8 @@ Bienvenue dans le repo git du datacup Challenge 🎉 ! Ce repo contient les diff
 
 Pour préparer au mieux les participants au **La Réunion DataCup Challenge**, l'équipe d'organisation propose un cycle de **5 masterclasses**, accessibles en présentiel et en ligne. Ces masterclasses sont conçues pour renforcer vos compétences en scraping, analyse de données, traitement géographique, régressions et Machine Learning.
 
-### Programme des Masterclasses
 
-1. **Jeudi 26 septembre de 17h à 19h** :
-   **Web scraping** - Comment récolter des données sur le web ? Comment utiliser une API ?
 
-2. **Jeudi 3 octobre de 16h30 à 19h** :
-   **Pandas** - La bibliothèque Python pour l'analyse de données.
-
-3. **Jeudi 17 octobre de 16h30 à 19h** :
-   **Traitement des données géographiques** - Exemples d’utilisations de **QGIS**.
-
-4. **Jeudi 31 octobre de 16h30 à 19h** :
-   **Régressions linéaires et logistiques** - Techniques pour des analyses de données performantes.
-
-5. **Jeudi 7 novembre de 16h30 à 19h** :
-   **Introduction au Machine Learning** et au **Deep Learning** avec les réseaux CNN.
-
----
 
 ## Contenu du dossier Prepwork
 
