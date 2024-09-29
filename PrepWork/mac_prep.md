@@ -4,7 +4,7 @@ Cette fiche présente les étapes essentielles pour configurer un Mac avec **Pyt
 
 ---
 
-## 1. 🍺 Installation de Homebrew
+## 🍺 Installation de Homebrew
 
 Homebrew esHomebrew est un gestionnaire de paquets pour macOS, nécessaire pour installer plusieurs outils.
 
@@ -46,7 +46,7 @@ brew tap homebrew/core
 
 [Solution Github](https://github.com/Homebrew/brew/issues/10368)
 
-## 2. ⚙️ Installer les outils en ligne de commande
+## ⚙️ Installer les outils en ligne de commande
 
 Xcode CLI tools sont essentiels pour faire fonctionner plusieurs outils.
 
@@ -55,7 +55,7 @@ Installe-les avec cette commande magique 🧙‍♂️ :
 ```bash
 xcode-select --install
 ```
-## 3. 🐍 Installation de python
+## 🐍 Installation de python
 ###  Comment vérifier si Python est déjà installé sur votre Mac
 
 Si votre macOS est plus ancien que Catalina, il se peut que Python soit déjà installé. Voici comment le vérifier :
@@ -165,7 +165,7 @@ pyenv activate masterclassData
 ```
 
 
-## 6. 📦 Installer les packages essentiels
+## 📦 Installer les packages essentiels
 
 Une dérnière étape à suivre.
 Maintenant vous allez devoir installer l'ensemble des paquets python nécessaires avec votre nouvel environnement virtuel fraichement installé.
@@ -183,7 +183,7 @@ pip install -r intel.txt
 
 Good Job 👌🏼 Ta machine est prête maintenant pour commencer. Tu peux dès a présent dans vsCode créer un fichier .**ipynb** et choisir le bon kernel afin de te familiariser avec Jupyter.
 
-## 7. 🫀 📓 Configurer le noyau Jupyter Notebook dans VS Code
+## 🫀 📓 Configurer le noyau Jupyter Notebook dans VS Code
 
 Dans vsCode, tu vas devoir selectionner le Kernel que tu souhaites sutiliser. C'est à dire l'environnement de python avec lequel ton notebook doit lancer ses cellules.
 
@@ -194,7 +194,7 @@ Comme sur l'image précedente, tu dois cliquer sur :
    2. Environnements Python
    3. Et enfin choisir l'environnements que tu as créé avec Pyenv
 
-## 8. 📚 Des ressources à préparer
+## 📚 Des ressources à préparer
 
 - [Utilisation de Jupyter](https://www.youtube.com/watch?v=g2yckh3_22E)
 - [Les bases de Python](https://courspython.com/introduction-python.html)

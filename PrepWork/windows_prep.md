@@ -6,7 +6,7 @@ Ce document vous guide dans la configuration d'un PC Windows pour la masterclass
 ---
 
 
-## 1. 🛠️ Vérification préliminaire: La virtualisation de windows
+## 🛠️ Vérification préliminaire: La virtualisation de windows
 
 WSL2, ou Windows Subsystem for Linux 2, est une fonctionnalité qui permet d’exécuter un environnement Linux directement sur Windows. Le but est simple, utiliser les outils et les commandes Linux 🐧, sans jamais quitter votre ordinateur Windows 🖥️.
 
@@ -46,7 +46,7 @@ Pour ce faire activier la virtualisation sur Windows 11 ou 10:
 
 Par la suite vérifie de nouveau dans ton gestionnaire des tâches si l'option **enabled** est activé.
 
-## 2. 🚀 Installation de WSL2 en quelques étapes :
+## 🚀 Installation de WSL2 en quelques étapes :
 
 1. **Vérifiez que votre Windows est à jour** 📅 :
 
@@ -114,7 +114,7 @@ sudo apt install -y curl jq
 
 ---
 
-## 3. 🐍 Installation de Python avec pyenv
+## 🐍 Installation de Python avec pyenv
 
 ### Installation de pyenv
 
@@ -170,7 +170,7 @@ pyenv versions
 Si tu vois bien la version dans la reponse du terminal tu peux continuer.
 
 
-## 4. 📦 Créer un environnement virtuel
+## 📦 Créer un environnement virtuel
 On va créer maintenant un environnement virtuel à partir de cette version de python.
 Créez un environnement virtuel pour isoler les dépendances du projet :
 
@@ -216,7 +216,7 @@ jupyter notebook
 ``` -->
 Good Job 👌🏼 Ta machine est prête maintenant pour commencer. Tu peux dès a présent dans vsCode créer un fichier .**ipynb** et choisir le bon kernel afin de te familiariser avec Jupyter.
 
-## 5. 🫀 📓 Configurer le noyau Jupyter Notebook dans VS Code
+## 🫀 📓 Configurer le noyau Jupyter Notebook dans VS Code
 
 Dans vsCode, tu vas devoir selectionner le Kernel que tu souhaites sutiliser. C'est à dire l'environnement de python avec lequel ton notebook doit lancer ses cellules.
 
@@ -227,7 +227,7 @@ Comme sur l'image précedente, tu dois cliquer sur :
    2. Environnements Python
    3. Et enfin choisir l'environnements que tu as créé avec Pyenv
 
-## 6. 📚 Des ressources à préparer
+## 📚 Des ressources à préparer
 
 - [Utilisation de Jupyter](https://www.youtube.com/watch?v=g2yckh3_22E)
 - [Les bases de Python](https://courspython.com/introduction-python.html)

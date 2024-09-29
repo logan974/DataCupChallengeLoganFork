@@ -88,7 +88,7 @@ code
 
 Good Job 👌🏼 Ta machine est prête maintenant pour commencer. Tu peux dès a présent dans vsCode créer un fichier .**ipynb** et choisir le bon kernel afin de te familiariser avec Jupyter.
 
-## 7. 🫀 📓 Configurer le noyau Jupyter Notebook dans VS Code
+## 5. 🫀 📓 Configurer le noyau Jupyter Notebook dans VS Code
 
 Dans vsCode, tu vas devoir selectionner le Kernel que tu souhaites sutiliser. C'est à dire l'environnement de python avec lequel ton notebook doit lancer ses cellules.
 
@@ -99,7 +99,7 @@ Comme sur l'image précedente, tu dois cliquer sur :
    2. Environnements Python
    3. Et enfin choisir l'environnements que tu as créé avec Pyenv
 
-## 8. 📚 Des ressources à préparer
+## 6. 📚 Des ressources à préparer
 
 - [Utilisation de Jupyter](https://www.youtube.com/watch?v=g2yckh3_22E)
 - [Les bases de Python](https://courspython.com/introduction-python.html)
