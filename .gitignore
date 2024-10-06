@@ -1,3 +1,8 @@
 result*
 ressource
 ressource/*
+.DS_Store
+MasterClass_1/.DS_Store
+MasterClass_2/utils/__pycache__/
+*.pyc
+__pycache__/
